@@ -3,8 +3,9 @@ Personal roadmap for 2025 year.
 
 | Name | Topic | Status |
 | ----- | ------ | ----- | 
-| Cracking the coding interview | Algorithms and data structures | ToDo |
-| Leetcode tasks from Neetcode iO | Algorithms and data structur | ToDo |
+| MIT 6.006 | A&DS | ToDo |
+| Cracking the coding interview | A&DS | ToDo |
+| Leetcode tasks from Neetcode iO | A&DS | ToDo |
 | Pragmatic Programmer | Programming | ToDo |
 | Modern Operating Systems | CS in general | ToDo |
 
