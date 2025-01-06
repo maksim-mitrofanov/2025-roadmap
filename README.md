@@ -9,6 +9,7 @@ Personal roadmap for 2025 year.
 | Pragmatic Programmer | CS in general | ToDo |
 | Modern Operating Systems | CS in general | ToDo |
 | CS149 | CS in general | ToDo |
+| SICP | CS in general | ToDo |
 
 
 
