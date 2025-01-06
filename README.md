@@ -8,8 +8,6 @@ Personal roadmap for 2025 year.
 | Leetcode tasks from Neetcode iO | A&DS | ToDo |
 | Pragmatic Programmer | CS in general | ToDo |
 | Modern Operating Systems | CS in general | ToDo |
-| CS106A | CS in general | ToDo |
-| CS106B | CS in general | ToDo |
 | CS149 | CS in general | ToDo |
 
 
