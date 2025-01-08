@@ -7,9 +7,8 @@ Personal roadmap for 2025 year.
 | Cracking the coding interview | A&DS | ToDo |
 | Leetcode tasks from Neetcode iO | A&DS | ToDo |
 | Pragmatic Programmer | CS in general | ToDo |
-| Modern Operating Systems | CS in general | ToDo |
-| CS149 | CS in general | ToDo |
-| SICP | CS in general | ToDo |
+| Host personal website | Personal | ToDo |
+
 
 
 
