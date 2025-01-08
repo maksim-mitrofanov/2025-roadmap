@@ -1,0 +1,51 @@
+title: Example Road Map
+description: |
+    This is an example of what a road map might look like. It can include **Markdown** if you
+    wish.
+
+authors:
+  - name: Benjamin Pannell
+    contact: contact@sierrasoftworks.com
+
+timeline:
+  - date: 2021-04-21
+    title: Project Start
+    description: This is when we will start working on the project, get the team ready!
+
+objectives:
+  - title: Market Dominance
+    description: |
+      Provide actionable analytics drawn from big data to improve our brand identity in
+      the advertainment sector, maximizing clickbait and establishing ourselves as a disruptor
+      in this industry.
+
+milestones:
+  - title: Build the Team
+    description: We don't yet have anyone, that's not gonna work...
+    deliverables:
+      - title: Team Lead
+        state: DONE
+        requirement: MUST
+        description: This person needs to know enough about this domain to be able to run with the project.
+
+      - title: Senior Engineer No.1
+        state: DOING
+        requirement: SHOULD
+
+      - title: Junior Engineer No.1
+        state: TODO
+        requirement: SHOULD
+
+      - title: Barista
+        state: SKIP
+        requirement: MAY
+
+  - title: Finish the Project
+    description: We don't need other milestones, do we?
+    deliverables:
+      - title: MVP
+        description: Who needs a polished product? Let's just ship the MVP and call it done.
+      - title: Marketing
+      - title: VC Funding
+      - title: Yacht
+        reference: https://lmgtfy.app/?q=yacht&t=i
